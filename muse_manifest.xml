@@ -1,0 +1,239 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="perchéterrapiattismo.sociogoats.it" resolutions="1x" timestamp="1559573896902">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4133739736" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="prova_longform.pdf" crc="4237705444" seo="true" mt="1559383342000"/>
+    <file name="01_terrapiatta.mp4" crc="473934408" seo="true" mt="1559394956000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="animazione_intro.gif" crc="4219802369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2661-33.png" crc="4254417165" ref="index"/>
+    <file name="svg-incollato-1156x18.svg" crc="4124338832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 1156x18_poster_.png" crc="3836036040" ref="index"/>
+    <file name="02_pacman.gif" crc="94754291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1572-4.png" crc="3876043328" ref="index"/>
+    <file name="lightbox_02_pacman.jpg" crc="196668193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="04.gif" crc="4236132054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1584-4.png" crc="4166383792" ref="index"/>
+    <file name="lightbox_04_soleluna.jpg" crc="3964306312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01.gif" crc="4261536624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="03.gif" crc="113008713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1568-4.png" crc="3952352806" ref="index"/>
+    <file name="lightbox_01_terrapiatta.jpg" crc="30827307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1578-4.png" crc="365285041" ref="index"/>
+    <file name="lightbox_03_cupola.jpg" crc="113485661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06_def.gif" crc="4121129413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1605-4.png" crc="442241642" ref="index"/>
+    <file name="lightbox_06_antartide.jpg" crc="430949561" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="miniatura_pulsante.png" crc="48355259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="08_def.gif" crc="4122229670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1599-4.png" crc="3909655062" ref="index"/>
+    <file name="lightbox_08_australia.jpg" crc="4240571804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05.gif" crc="4072365084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="07_def.gif" crc="4078283300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1608-4.png" crc="3762001914" ref="index"/>
+    <file name="lightbox_05_ghiacciai.jpg" crc="4113536463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1602-4.png" crc="3928895331" ref="index"/>
+    <file name="lightbox_07_gravità.jpg" crc="3915759342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="09_def.gif" crc="4245587908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1611-4.png" crc="520568435" ref="index"/>
+    <file name="u1614-24.png" crc="431898004" ref="index"/>
+    <file name="svg-incollato-1156x14.svg" crc="4260348114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 1156x14_poster_.png" crc="47073239" ref="index"/>
+    <file name="mappa_mondo_hover.jpg" crc="10025856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mappa_mondo_normal_outline.jpg" crc="257676156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2773-9.png" crc="282530575" ref="index"/>
+    <file name="svg-incollato-1156x142.svg" crc="129191398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 1156x14_poster_2.png" crc="4154801732" ref="index"/>
+    <file name="mappa_italia_hover.jpg" crc="168419179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mappa_italia_normal_outline.jpg" crc="4167332884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2868-7.png" crc="3838066506" ref="index"/>
+    <file name="svg-incollato-1156007x14.svg" crc="31372054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 1156007x14_poster_.png" crc="81169169" ref="index"/>
+    <file name="u2881-10.png" crc="523854232" ref="index"/>
+    <file name="13_def.gif" crc="3817762183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbox_crociera.jpg" crc="4237912480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_def.gif" crc="192070046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_def.gif" crc="265080939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbox_razzo.png" crc="327556537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbox_biglietto.png" crc="4194307961" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2887-6.png" crc="4267421555" ref="index"/>
+    <file name="u2926-6.png" crc="3774634753" ref="index"/>
+    <file name="u2951-6.png" crc="4001155746" ref="index"/>
+    <file name="svg-incollato-1152001x18.svg" crc="3781531629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 1152001x18_poster_.png" crc="507432827" ref="index"/>
+    <file name="sfumatura_def2-crop-u3276.jpg" crc="3759786369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3362-4.png" crc="272606888" ref="index"/>
+    <file name="u3365-4.png" crc="4026079987" ref="index"/>
+    <file name="u3374-4.png" crc="4159655353" ref="index"/>
+    <file name="u3377-4.png" crc="4136246468" ref="index"/>
+    <file name="u3386-4.png" crc="234988858" ref="index"/>
+    <file name="u3389-4.png" crc="3973840128" ref="index"/>
+    <file name="u3414-4.png" crc="282384067" ref="index"/>
+    <file name="u3415-4.png" crc="344841982" ref="index"/>
+    <file name="svg-incollato-1461005x161.svg" crc="177666429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 1461005x161_poster_.png" crc="343971469" ref="index"/>
+    <file name="u3432-4.png" crc="382770175" ref="index"/>
+    <file name="u3451-4.png" crc="394238771" ref="index"/>
+    <file name="u3514-4.png" crc="877676" ref="index"/>
+    <file name="u3530-4.png" crc="288663350" ref="index"/>
+    <file name="u3622-4.png" crc="4247866584" ref="index"/>
+    <file name="u3602-4.png" crc="3921464413" ref="index"/>
+    <file name="u3638-4.png" crc="3915407829" ref="index"/>
+    <file name="svg-incollato-357398x1885.svg" crc="4289801296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 357398x1885_poster_.png" crc="536479429" ref="index"/>
+    <file name="lightbox_terrapiattista_estremo.jpg" crc="3869752713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbox_terratondista_moderato.jpg" crc="324155193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbox_terratondista_estremo.jpg" crc="514993474" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lightbox_terrapiattista_moderato.jpg" crc="406845484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-incollato-418382x307.svg" crc="4245610953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 418382x307_poster_.png" crc="487272635" ref="index"/>
+    <file name="svg-incollato-338878x385.svg" crc="283883422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 338878x385_poster_.png" crc="4038175280" ref="index"/>
+    <file name="svg-incollato-425314x324.svg" crc="438778850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 425314x324_poster_.png" crc="269294234" ref="index"/>
+    <file name="svg-incollato-391449x274.svg" crc="408196792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 391449x274_poster_.png" crc="4147714112" ref="index"/>
+    <file name="svg-incollato-30468x365.svg" crc="448880417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 30468x365_poster_.png" crc="4159015344" ref="index"/>
+    <file name="svg-incollato-230275x374.svg" crc="80763407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 230275x374_poster_.png" crc="133159469" ref="index"/>
+    <file name="u3672-4.png" crc="3785775281" ref="index"/>
+    <file name="u3679-14.png" crc="205618989" ref="index"/>
+    <file name="svg-incollato-2x376.svg" crc="525558030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg incollato 2x376_poster_.png" crc="183767752" ref="index"/>
+    <file name="u4889-9.png" crc="4266154036" ref="index"/>
+    <file name="u4895-33.png" crc="3906030949" ref="index"/>
+    <file name="miniatura_pulsante-crop-u2499.png" crc="4043779114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="miniatura_pulsante-crop-u4291.png" crc="4043779114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="187947193" seo="true" mt="1559573844521" redirect="true"/>
+</manifest>
